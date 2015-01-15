@@ -1,5 +1,7 @@
 # Xcode
+.DS_Store
 #
+*.mp4
 build/
 *.pbxuser
 !default.pbxuser
